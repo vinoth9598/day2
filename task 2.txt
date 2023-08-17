@@ -1,0 +1,3 @@
+How to print control log?
+write to command 
+console.log('hello world');
